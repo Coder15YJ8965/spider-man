@@ -1,0 +1,42 @@
+#smimages
+{
+    display: flex;
+}
+img
+{
+    width: 250px;
+    border-width: 20px;
+    border-color: darkslategrey;
+}
+div
+{
+    margin-left: 440px;
+}
+.line
+{
+    width: 100px;
+    height: 10px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+body
+{
+    background: rgb(44,106,153);
+background: -moz-linear-gradient(90deg, rgba(44,106,153,1) 31%, rgba(238,43,58,1) 55%);
+background: -webkit-linear-gradient(90deg, rgba(44,106,153,1) 31%, rgba(238,43,58,1) 55%);
+background: linear-gradient(90deg, rgba(44,106,153,1) 31%, rgba(238,43,58,1) 55%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2c6a99",endColorstr="#ee2b3a",GradientType=1);
+}
+p{
+    font-family:fantasy;
+    font-size: 20px;
+}
+#mfcsm
+{
+    font-size: 40px;
+}
+h1,h2
+{
+    font-family: cursive;
+}
